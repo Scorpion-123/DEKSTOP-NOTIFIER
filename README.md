@@ -1,2 +1,2 @@
 # DEKSTOP-NOTIFIER
-Used for notifing different important things after a certain interval into your dekstop screen.
+Used for notifying different important things after a certain interval into your dekstop screen.
